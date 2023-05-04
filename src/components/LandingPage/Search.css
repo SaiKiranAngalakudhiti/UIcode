@@ -1,0 +1,30 @@
+.text_bkg_box{
+    background: rgba(0, 0, 0, 0.4); /* Black background with 0.5 opacity */
+    width: max-content;
+    border-radius: 50px;
+    font-size: 15px;
+    color: white;
+    height: max-content;
+}
+
+.w-d-img{
+    height: 26px;
+    color: white;
+}
+
+.w-d-text{
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+}
+
+.searchdiv{
+    height: max-content;
+}
+
+.textSearch{
+    color: white;
+    font-weight: bold;
+    font-family: "Karma";
+}
